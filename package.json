@@ -1,0 +1,25 @@
+{
+  "name": "telegram-backend-notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oleh-Pashchenko/telegram-backend-notify.git"
+  },
+  "keywords": [
+    "telegram",
+    "backend",
+    "notification",
+    "realtime"
+  ],
+  "author": "Oleh Pashchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oleh-Pashchenko/telegram-backend-notify/issues"
+  },
+  "homepage": "https://github.com/Oleh-Pashchenko/telegram-backend-notify#readme"
+}
