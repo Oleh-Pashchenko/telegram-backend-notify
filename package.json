@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Oleh-Pashchenko/telegram-backend-notify/issues"
   },
-  "homepage": "https://github.com/Oleh-Pashchenko/telegram-backend-notify#readme"
+  "homepage": "https://github.com/Oleh-Pashchenko/telegram-backend-notify#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
 }
